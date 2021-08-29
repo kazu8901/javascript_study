@@ -60,7 +60,7 @@ window.alert('ギャアアアアアア')
                                             // ↓イベント
 document.getElementsByTagName('button')[0].addEventListener('click', ()=> {
   // 命令文を書く
-  window.alert('ギャアアアアアア')
+  window.alert('ギャアアアアアア！！')
 });
 
 console.log(document.getElementsByTagName('button')[0]);
